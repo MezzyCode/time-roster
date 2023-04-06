@@ -3,7 +3,7 @@ const AboutUs = {
     return `
         <section id="about-box">
           <h1>Time Rooster App</h1>
-          <a href="https://github.com/ramaanindyaa/time-rooster-app"><h3>View on GitHub</h3></a>
+          <a href="https://github.com/leafAlif/time-roster"><h3>View on GitHub</h3></a>
 
           <h2>Capstone Team C22-223</h2>
           

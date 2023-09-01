@@ -39,6 +39,3 @@ Jika user memiliki time management yang buruk, misal :
 * Memiliki task di kuadran Important and Urgent yang terlalu banyak
 * Memasukan task ke kuadran Imporant tanpa menjadwalkan task
 Hal ini akan menimbulkan Warning di kuadran yang ditentukan.
-
-Firebase prototype:
-<https://github.com/leafAlif/time-roster-backend>
